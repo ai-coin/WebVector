@@ -1,0 +1,8 @@
+
+WebVector is the tool that renders a website page and makes a SVG image from it.
+
+This library could be used to proxy dashboard screens where the source has limitations with regard to end users access. 
+
+https://github.com/ai-coin/WebVector/tree/webvector-3.5
+
+http://cssbox.sourceforge.net/webvector/
